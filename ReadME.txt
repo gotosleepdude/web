@@ -1,0 +1,1 @@
+Download all the images and save it in a folder named "media"
